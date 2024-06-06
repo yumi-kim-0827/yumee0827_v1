@@ -4,7 +4,7 @@
 
 # 🖥️View web site
 
-[https://yumi-kim-0827.github.io/yumee0827_v2/](https://yumi-kim-0827.github.io/yumee0827_v2/)
+[https://yumi-kim-0827.github.io/yumee0827_v1/](https://yumi-kim-0827.github.io/yumee0827_v1/)
 
 <!--프로젝트 대문 이미지-->
 
