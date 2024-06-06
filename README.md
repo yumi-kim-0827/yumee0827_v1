@@ -40,7 +40,6 @@
 - CSS3
 - GSAP
 - JS
-- 
 
 # [3] Usage
 
